@@ -274,6 +274,7 @@ body {
 
 /* Eye icon styling */
 .password-wrapper .toggle-password {
+    align-item: right;
     position: absolute; /* Position relative to the wrapper */
     top: 50%; /* Center vertically */
     right: -100px; /* Distance from the right edge */
