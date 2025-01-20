@@ -278,7 +278,7 @@ body {
     position: absolute; /* Position relative to the wrapper */
     top: 50%; /* Center vertically */
     right: -100px; /* Distance from the right edge */
-    transform: translateY(-50%); /* Ensure proper alignment */
+    transform: translateY(-10%); /* Ensure proper alignment */
     cursor: pointer; /* Pointer for interactivity */
     color: #bbb; /* Icon color */
     font-size: 20px; /* Icon size */
