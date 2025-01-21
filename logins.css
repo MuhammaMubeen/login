@@ -2401,7 +2401,7 @@ body {
 }
 }
 
-@media (min-width: 1001px) and (max-width: 1550px) {
+@media (min-width: 1001px) and (max-width: 15500px) {
     .footer-bar {
         display: none;
     }
